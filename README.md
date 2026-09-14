@@ -20,7 +20,7 @@ An end-to-end containerized Node.js application deployed behind an Nginx reverse
 ### 1. Provision Infrastructure & Server Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/arockianemiro/cloud-architecture-project.git](https://github.com/arockianemiro/cloud-architecture-project.git)
+git clone https://github.com/arockianemiro/cloud-architecture-project.git
 cd cloud-architecture-project
 
 # Configure environment variables
